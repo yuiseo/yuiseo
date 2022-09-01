@@ -59,14 +59,13 @@ Here are some ideas to get you started:
 	<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 	</a>
-		</div>
+</div>
 
-	<br />
-	<br />
+
 	<div>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={oesiu24})](https://solved.ac/{oesiu24})
-		<img src="http://mazandi.herokuapp.com/api?handle=oesiu24&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={oesiu24}&theme=warm)
 	</div>
 	<br />
 	<br />
