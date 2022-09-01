@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome,%20I%20Seo's%20GitHub&fontSize=50&fontColor=ffffff" />
 <h3>Hi there 👋</h3>
 <p>I'm <b>I Seo Yu</b>, Front-End Web Developer👩‍💻</p>
-
+<p>🌱 I’m currently learning about Front-End</p>
 <br/>
 
 
@@ -45,10 +45,11 @@ Here are some ideas to get you started:
 
 
 <br />
-<h3>☎Contact☎</h3>
+<h3>💬More About My TIL & Log</h3>
 <a href="https://luminous24.tistory.com" target="_blank">
 <img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
 </a>
+<h3>📫 How to reach me</h3>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
@@ -56,5 +57,6 @@ Here are some ideas to get you started:
 <br />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />
 <br />
+<h4>⚡My Baekjoon Level</h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
 </div>
