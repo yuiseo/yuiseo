@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 	<br />
 	<br />
 	<div>
-		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu" />&nbsp
-		<img src="http://mazandi.herokuapp.com/api?handle=oesiu&theme=warm"/>
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />&nbsp
+		<img src="http://mazandi.herokuapp.com/api?handle=oesiu24&theme=warm"/>
 	</div>
 	<br />
 	<br />
