@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 	</div>
 	<br />
 	<br />
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
 </div>
