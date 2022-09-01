@@ -64,7 +64,8 @@ Here are some ideas to get you started:
 	<br />
 	<br />
 	<div>
-		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />&nbsp
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={oesiu24})](https://solved.ac/{oesiu24})
 		<img src="http://mazandi.herokuapp.com/api?handle=oesiu24&theme=warm"/>
 	</div>
 	<br />
