@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4
-,100:f3e5f4&height=260&section=header&text=Welcome,%20I%20Seo's%20GitHub&fontSize=50&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome,%20I%20Seo's%20GitHub&fontSize=50&fontColor=ffffff"/>
     <h3>Hi there 👋</h3>
     <p>I'm <b>I Seo Yu</b>, Front-End Web Developer👩‍💻</p>
     <p></p>
