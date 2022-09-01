@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <br />
 <h4>Contact</h4>
+<br />
 <a href="https://luminous24.tistory.com" target="_blank">
 <img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
@@ -51,7 +52,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 <br />
+<br />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />
+<br />
 <img src="http://mazandi.herokuapp.com/api?handle=oesiu24&theme=warm"/>
 <br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
