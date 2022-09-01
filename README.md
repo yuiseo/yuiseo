@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 
 <h3>💻Tech Stack💻</h3>
-
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -32,21 +30,23 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
 
 <br />
-<h4>Contact</h4>
-<br />
+<h3>☎Contact☎</h3>
 <a href="https://luminous24.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />
-<br />
-<img src="http://mazandi.herokuapp.com/api?handle=oesiu24&theme=warm"/>
 <br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
 </div>
