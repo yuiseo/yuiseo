@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
-<h4>⚡My Baekjoon Level</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/>
+<br />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />
 <br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
