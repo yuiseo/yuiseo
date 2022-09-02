@@ -53,12 +53,15 @@ Here are some ideas to get you started:
 <h3>📫 How to reach me</h3>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
+
 </a>
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/>
-<br />
+<h4>✨My BOJ level</h4>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />
+<br />
+<h4>✨My Github Stats</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/>
 <br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
 </div>
