@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
-<h4>✨My BOJ level</h4>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" />
+<!-- <h4>✨My BOJ level</h4>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesiu24" /> -->
 <br />
 <h4>✨My Github Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/>
