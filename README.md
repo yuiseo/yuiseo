@@ -20,11 +20,19 @@ Here are some ideas to get you started:
 <div>
 <h3>Hi there 👋</h3>
 <p>I'm <b>I Seo Yu</b>, Front-End Junior Developer👩‍💻</p>
-<p>I'm focusing on writing the front-end test code these days.</p>
-<br/>
-
-
-<h3>💻Tech Stack💻</h3>
+<p>I'm focusing on writing the <b>front-end test code</b> these days.</p>
+<br />
+<h2>✏My TIL & Dev's Log</h2
+<a href="https://luminous24.tistory.com" target="_blank">
+<img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
+</a>
+<br />
+<h2>📩Contact</h2>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<br />
+<br />
+<h2>💻Tech Stack</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -50,14 +58,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 
-<br />
-<h3>💬More About My TIL & Log</h3>
-<a href="https://luminous24.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
-</a>
-<h3>📫 How to reach me</h3>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 </a>
 <br />
