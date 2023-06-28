@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <h3>👋Hi there!</h3>
 <p>I'm Seo Yu, a <b>Front-End Junior Developer 👩‍💻</b>. I started studying development in 2022 and have been working as a front-end junior developer since 2023. Currently, I'm <b>focusing on writing test code</b> for the front-end.<br/>  
-My goal is to first understand users and then effectively utilize technology to facilitate communication with them.</b>
+My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
 </p>
 <br />
 <br />
