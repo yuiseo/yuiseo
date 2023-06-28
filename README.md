@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome,%20I%20Seo's%20GitHub😊&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome%20to%20I%20Seo's%20GitHub😊&fontSize=40&fontColor=ffffff&fontAlign=65" />
+</div>
+<div>
 <h3>Hi there 👋</h3>
 <p>I'm <b>I Seo Yu</b>, Front-End Junior Developer👩‍💻</p>
 <p>I'm focusing on writing the front-end test code these days.</p>
@@ -58,10 +61,11 @@ Here are some ideas to get you started:
 
 </a>
 <br />
-<br />
-<br />
+
 <!-- <h4>✨My Github Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/> -->
 <br />
+</div>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
 </div>
