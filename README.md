@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <h3>👋Hi there!</h3>
-<p>I'm Seo Yu, a <b>Front-End Junior Developer 👩‍💻</b>. I started studying development in 2022 and have been working as a front-end junior developer since 2023.Currently, I'm <b>focusing on writing test code</b> for the front-end.<br/>  
+<p>I'm Seo Yu, a <b>Front-End Junior Developer 👩‍💻</b>. I started studying development in 2022 and have been working as a front-end junior developer since 2023. Currently, I'm <b>focusing on writing test code</b> for the front-end.<br/>  
 My goal is to become a developer <b>who understands users and effectively communicates with technology.</b>
 </p>
 <br />
