@@ -31,6 +31,11 @@ My goal is to first <b>understand users</b> and then effectively utilize technol
 </p>
 <br />
 <br />
+
+<h2>Education & Career</h2>
+Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - 2022.12)
+Sparrow Frontend Junior Developer (2022.12 - )
+
 <h2>💻Skills</h2>
 <h3>Platforms & Languages</h3>
 
