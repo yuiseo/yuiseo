@@ -30,12 +30,10 @@ Here are some ideas to get you started:
 My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
 </p>
 <br />
-<br />
-
 <h2>Education & Career</h2>
-Chosun University Majored in Biomedical Science (2014.03 - 2018.02) <br/>
+Sparrow Frontend Junior Developer (2022.12 - )<br/>
 Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - 2022.12) <br/>
-Sparrow Frontend Junior Developer (2022.12 - )
+Chosun University Majored in Biomedical Science (2014.03 - 2018.02) 
 
 <h2>💻Skills</h2>
 <h3>Platforms & Languages</h3>
