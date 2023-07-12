@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
 </p>
 <br />
-<h2>Education & Career</h2>
+<h2>🌱Education & Career</h2>
 Sparrow <b>Frontend Junior Developer</b> (2022.12 - )<br/>
 <b>Samsung SW Academy For Youth</b> (a.k.a. SSAFY) 7th (2022.01 - 2022.12) <br/>
 Chosun University Majored in Biomedical Science (2014.03 - 2018.02) 
