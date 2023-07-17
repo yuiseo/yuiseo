@@ -35,6 +35,9 @@ Sparrow <b>Frontend Junior Developer</b> (2022.12 - )<br/>
 <b>Samsung SW Academy For Youth</b> (a.k.a. SSAFY) 7th (2022.01 - 2022.12) <br/>
 Chosun University Majored in Biomedical Science (2014.03 - 2018.02) 
 
+<h2>👩‍💻Licenses</h2>
+SQLD (2023.07)
+
 <h2>💻Skills</h2>
 <h3>Platforms & Languages</h3>
 
