@@ -85,8 +85,8 @@ SQL개발자 - SQLD (2023.07)
 </a>
 <br />
 
-<h4>✨My Github Stats</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/>
+<!-- <h4>✨My Github Stats</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/> -->
 <br />
 </div>
 <div align="center">
