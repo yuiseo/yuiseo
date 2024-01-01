@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/yuiseo" target="_blank">
 <img src="https://img.shields.io/badge/ISeoYu-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+<a href="https://oesiu24.notion.site/Yu-I-Seo-2db6d1d73cb2438399d40aa2580731d8" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
 <h3>👋Hi there!</h3>
 <p>I'm ISeo Yu, a <b>Front-End Junior Developer 👩‍💻</b>. I started studying development in 2022 and have been working as a front-end junior developer since 2023. Currently, I'm <b>focusing on studying React & JavaScript</b> for the front-end.<br/>  
 My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
