@@ -19,16 +19,17 @@ Here are some ideas to get you started:
 </div>
 <div>
 <h2>🤞 Nice way to meet me</h2>
+<a href="https://oesiu24.notion.site/Yu-I-Seo-2db6d1d73cb2438399d40aa2580731d8?pvs=4" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
 <a href="https://luminous24.tistory.com" target="_blank">
 <img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
-<a href="https://velog.io/@yuiseo" target="_blank">
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/yuiseo" target="_blank">
 <img src="https://img.shields.io/badge/ISeoYu-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-<a href="https://oesiu24.notion.site/Yu-I-Seo-2db6d1d73cb2438399d40aa2580731d8?pvs=4" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
+<a href="https://velog.io/@yuiseo" target="_blank">
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+
 <h3>👋Hi there!</h3>
 <p>I'm ISeo Yu, a <b>Front-End Junior Developer 👩‍💻</b>. I started studying development in 2022 and have been working as a front-end junior developer since 2023. Currently, I'm <b>focusing on studying React & JavaScript</b> for the front-end.<br/>  
 My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
