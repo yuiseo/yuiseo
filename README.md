@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <div>
 <h2>🤞 Nice way to meet me</h2>
-<a href="https://oesiu24.notion.site/Yu-I-Seo-2db6d1d73cb2438399d40aa2580731d8?pvs=4" target="_blank">
+<a href="https://oesiu24.notion.site/Yu-I-Seo-2db6d1d73cb2438399d40aa2580731d8" target="_blank">
 <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
 <a href="https://luminous24.tistory.com" target="_blank">
 <img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
