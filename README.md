@@ -1,106 +1,45 @@
-<!--
-**yuiseo/yuiseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:4282f4,100:f3e5f4&height=100&section=header&fontSize=90)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<div>
-<div align="center">
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome%20to%20I%20Seo's%20GitHub😊&fontSize=40&fontColor=ffffff&fontAlign=65" /> -->
-</div>
-<div>
-<h2>🤞 Nice way to meet me</h2>
-<a href="https://oesiu24.notion.site/Yu-I-Seo-2db6d1d73cb2438399d40aa2580731d8" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
-<a href="https://luminous24.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/TECH Blog-4282f4?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=oesiu24@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-f3e5f4?style=for-the-badge&logo=Gmail&logoColor=white"/>
-<a href="https://www.linkedin.com/in/yuiseo" target="_blank">
-<img src="https://img.shields.io/badge/ISeoYu-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-<a href="https://velog.io/@yuiseo" target="_blank">
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-
-<h3>👋Hi there!</h3>
-<p>I'm ISeo Yu, a <b>Front-End Junior Developer 👩‍💻</b>. I started studying development in 2022 and have been working as a front-end junior developer since 2023. Currently, I'm <b>focusing on studying React & JavaScript</b> for the front-end.<br/>  
-My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
-</p>
-<br />
-<h2>👩🏻‍💻Career</h2>
-Sparrow <b>Frontend Junior Developer</b> (2022.12 - now )<br/>
-
-<h2>Experience</h2>
-<b>2024OSSCA</b> githru-vscode-ext contributors (2024.07 - now)<br/>
-
-<h2>🌱Education</h2>
-<b>Samsung SW Academy For Youth</b> (a.k.a. SSAFY) 7th (2022.01 - 2022.12) <br/>
-Chosun University Majored in Biomedical Science (2014.03 - 2018.02) 
-
-<h2>👩‍💻Licenses</h2>
-SQL Developer - SQLD (2023.07)
-
-<h2>💻Skills</h2>
-<h3>Platforms & Languages</h3>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
-<br/>
-
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<br/>
+<div align = "center">
+ 
+ ![Profile Demo](https://tech-orbit.wontory.dev/api?title=I%20SEO&tech=JavaScript,Next.js&size=300)
+ 
+ <p>
+  Hello, I'm Yu I Seo.<br/>
+  My goal is to first <b>understand users</b> and then <br/>
+  effectively utilize technology to facilitate communication with them.<br/>
+ </p>
+ 
+ <br/>
+ 
+ <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oesiu24@gmail.com)](mailto:oesiu24@gmail.com) -->
+ <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=tistory&link=https://)]() -->
+ 
+ ﹏﹏﹏﹏﹏﹏﹏
+ 
+ <br/>
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-<br/>
+ <h3>💻 Tech Stack 💻</h3>
+ <br/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+ <br/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+ <br/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+ 
+ <br/><br/>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuiseo&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/electron-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-<br/>
-
-<img src="https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/testing%20library-%23E33332.svg?&style=for-the-badge&logo=testing%20library&logoColor=white" />
-<br/>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
-<br/>
-
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-
-
-</a>
-<br />
-
-<!-- <h4>✨My Github Stats</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/> -->
-<br />
 </div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:f3e5f4&height=200&reversal=true&section=footer" />
-</div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=20:b0c4de,100:f3e5f4&&height=100&reversal=true&section=footer&fontSize=90)
