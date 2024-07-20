@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome%20to%20I%20Seo's%20GitHub😊&fontSize=40&fontColor=ffffff&fontAlign=65" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome%20to%20I%20Seo's%20GitHub😊&fontSize=40&fontColor=ffffff&fontAlign=65" /> -->
 </div>
 <div>
 <h2>🤞 Nice way to meet me</h2>
@@ -35,13 +35,18 @@ Here are some ideas to get you started:
 My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
 </p>
 <br />
-<h2>🌱Education & Career</h2>
-Sparrow <b>Frontend Junior Developer</b> (2022.12 - )<br/>
+<h2>👩🏻‍💻Career</h2>
+Sparrow <b>Frontend Junior Developer</b> (2022.12 - now )<br/>
+
+<h2>Experience</h2>
+<b>2024OSSCA</b> githru-vscode-ext contributors (2024.07 - now)<br/>
+
+<h2>🌱Education</h2>
 <b>Samsung SW Academy For Youth</b> (a.k.a. SSAFY) 7th (2022.01 - 2022.12) <br/>
 Chosun University Majored in Biomedical Science (2014.03 - 2018.02) 
 
 <h2>👩‍💻Licenses</h2>
-SQL개발자 - SQLD (2023.07)
+SQL Developer - SQLD (2023.07)
 
 <h2>💻Skills</h2>
 <h3>Platforms & Languages</h3>
