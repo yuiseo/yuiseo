@@ -16,7 +16,7 @@
 
 <br/>
  <p>
- <b>[Sparrow](https://github.com/yuEseo)</b> Front-end Developer 2022.12 - now <br/>
+ <b>Sparrow</b> Front-end Developer 2022.12 - now <br/>
  <b>Samsung SW Academy For Youth(a.k.a. SSAFY) 7th</b> 2022.01 - 2022.12 <br/>
  </p>
  <br/>
