@@ -4,7 +4,7 @@
 
 <div align = "center">
  
- ![Profile Demo](https://tech-orbit.wontory.dev/api?title=I%20SEO&tech=JavaScript,Next.js&size=300)
+ ![Profile Demo](https://tech-orbit.wontory.dev/api?title=I%20SEO&tech=JavaScript,Next.js,jest,node.js&size=500)
  
  <p>
   Hello, I'm Yu I Seo.<br/>
