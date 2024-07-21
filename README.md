@@ -11,7 +11,14 @@
   My goal is to first <b>understand users</b> and then <br/>
   effectively utilize technology to facilitate communication with them.<br/>
  </p>
- 
+ <br/>
+
+
+<br/>
+ <p>
+ <b>Sparrow</b> Front-end Developer 2022.12 - now <br/>
+ <b>Samsung SW Academy For Youth(a.k.a. SSAFY) 7th</b> 2022.01 - 2022.12 <br/>
+ </p>
  <br/>
  
  <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oesiu24@gmail.com)](mailto:oesiu24@gmail.com) -->
