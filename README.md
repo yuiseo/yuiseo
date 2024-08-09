@@ -17,7 +17,7 @@
 <br/>
  <p>
  <b>Sparrow</b> Front-end Developer 2022.12 - now <br/>
- <b>Samsung SW Academy For Youth(a.k.a. SSAFY) 7th</b> 2022.01 - 2022.12 <br/>
+ <b>[Samsung SW Academy For Youth(a.k.a. SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 7th</b> 2022.01 - 2022.12 <br/>
  </p>
  <br/>
  
