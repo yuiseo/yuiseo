@@ -4,7 +4,7 @@
 
 <div align = "center">
  
- ![Profile Demo](https://tech-orbit.wontory.dev/api?title=I%20SEO&tech=JavaScript,Next.js,jest,node.js&size=450)
+ ![Profile Demo](https://tech-orbit.wontory.dev/api?title=I%20SEO&tech=TypeScript,Next.js,jest,node.js&size=450)
  
  <p>
   Hello, I'm Yu I Seo.<br/>
@@ -31,7 +31,7 @@
  <h3>💻 Main Tech Stack 💻</h3>
  <br/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<!--  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
  <br/>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
